@@ -24,5 +24,9 @@ This project processes raw sales data and transforms it into an aggregated data 
 - `retail_dw.silver_averagecosts`
 - `retail_dw.mview_weekly_sales`
 
+##Dataset
+- **Find the dataset using below Link**
+- https://drive.google.com/drive/folders/14y-FqE3Kq4yCH1nc65TesIKjq13KOCnk?usp=sharing
+
 ## 📝 Author
 - **Devesh Premani**

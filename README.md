@@ -24,6 +24,9 @@ This project processes raw sales data and transforms it into an aggregated data 
 - `retail_dw.silver_averagecosts`
 - `retail_dw.mview_weekly_sales`
 
+## ER Daigram
+![ER Daigram](https://github.com/Devesh022/gsyn_data_engineer_task/blob/main/Gsynergy/Gsyn_task_ER_Daigram.png) 
+
 ## Dataset
 **Find the dataset using Link:**
   https://drive.google.com/drive/folders/14y-FqE3Kq4yCH1nc65TesIKjq13KOCnk?usp=sharing
